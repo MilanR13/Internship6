@@ -377,8 +377,8 @@ html, body {
   
 }
 
-@media (max-width:1400px){.box{left: 52%;}.hrbox{left: 52%;}}
-@media (max-width:1300px){.box{left: 52%;}.hrbox{left: 52%;}}
+@media (max-width:1400px){.box{left: 54%;}.hrbox{left: 54%;}}
+@media (max-width:1300px){.box{left: 54%;}.hrbox{left: 54%;}}
 @media (max-width:1200px){.box{left: 60%;}.hrbox{left: 60%;}}
 @media (max-width:1100px){.box{left: 65%;}.hrbox{left: 65%;}}
 
